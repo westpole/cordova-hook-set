@@ -11,4 +11,4 @@ Set of hook scripts for Cordova.
 
 ### update-android-manifest.js
 
-> Script designed to update Android manifest file with latest version number from config.xml file and update versionCode that Play Store uses to identify Application.
+> Script designed to update Android manifest file with the latest version number from config.xml file and update versionCode that Play Store uses to identify Application.
